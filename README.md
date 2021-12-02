@@ -19,7 +19,7 @@ DiPS是论文"Submodular optimization-based diverse paraphrasing and its effecti
 
 #### 数据获取
 
-数据集的获取见[paraphrasing-datasets](https://code.byted.org/lizhuo.joe/paraphrasing-datasets)，按照[paraphrasing-datasets](https://code.byted.org/lizhuo.joe/paraphrasing-datasets)的指示运行make_datafiles.py可以得到处理后的数据。
+数据集的获取见[paraphrasing-datasets](https://github.com/Lizhmq/Paraphrasing-Datasets)，按照[paraphrasing-datasets](https://github.com/Lizhmq/Paraphrasing-Datasets)的指示运行make_datafiles.py可以得到处理后的数据。
 
 运行后：
 
