@@ -90,4 +90,4 @@ python3 -m src.main -mode decode -selec submod -dataset <dataset> -run_name <run
 
 #### 结果
 
-[NMT-Eval](https://code.byted.org/lizhuo.joe/nmt-eval)包含计算BLEU,ROUGE指标的脚本和保存的模型、生成输出。
+[NMT-Eval](https://github.com/Lizhmq/nmt-eval)包含计算BLEU,ROUGE指标的脚本和保存的模型、生成输出。
